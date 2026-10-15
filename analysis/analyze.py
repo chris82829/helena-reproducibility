@@ -3,7 +3,7 @@
 Run: python analysis/analyze.py --output /tmp/helena-statistics.json
 Install: python -m pip install -r analysis/requirements.txt
 Reads only the public per-participant TXT files. No network or API calls.
-This publication adaptation is not evidence of a pre-study script freeze.
+This system is not evidence of a pre-study script freeze.
 """
 from pathlib import Path
 from collections import Counter
